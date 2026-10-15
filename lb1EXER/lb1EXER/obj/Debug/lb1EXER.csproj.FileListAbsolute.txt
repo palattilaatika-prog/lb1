@@ -1,0 +1,10 @@
+C:\Users\Denes\source\repos\lb1EXER\lb1EXER\bin\Debug\lb1EXER.exe.config
+C:\Users\Denes\source\repos\lb1EXER\lb1EXER\bin\Debug\lb1EXER.exe
+C:\Users\Denes\source\repos\lb1EXER\lb1EXER\bin\Debug\lb1EXER.pdb
+C:\Users\Denes\source\repos\lb1EXER\lb1EXER\obj\Debug\lb1EXER.csproj.AssemblyReference.cache
+C:\Users\Denes\source\repos\lb1EXER\lb1EXER\obj\Debug\lb1EXER.Form1.resources
+C:\Users\Denes\source\repos\lb1EXER\lb1EXER\obj\Debug\lb1EXER.Properties.Resources.resources
+C:\Users\Denes\source\repos\lb1EXER\lb1EXER\obj\Debug\lb1EXER.csproj.GenerateResource.cache
+C:\Users\Denes\source\repos\lb1EXER\lb1EXER\obj\Debug\lb1EXER.csproj.CoreCompileInputs.cache
+C:\Users\Denes\source\repos\lb1EXER\lb1EXER\obj\Debug\lb1EXER.exe
+C:\Users\Denes\source\repos\lb1EXER\lb1EXER\obj\Debug\lb1EXER.pdb
